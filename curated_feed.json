@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "updated_at": "2026-11-03T08:30:00Z",
+  "items": [
+    {
+      "id": "spicy_1",
+      "title": "상견례에서 파혼 선언 레전드 사이다 썰 ㄷㄷ",
+      "category": "spicy",
+      "thumbnail_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=600",
+      "source_url": "https://www.instagram.com/reel/C-test-spicy1/",
+      "author_name": "@daily_cider",
+      "views": "240만",
+      "is_age_restricted": false
+    },
+    {
+      "id": "spicy_2",
+      "title": "헬스장에서 시비 털린 썰 참교육 직관기",
+      "category": "spicy",
+      "thumbnail_url": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=600",
+      "source_url": "https://www.instagram.com/reel/C-test-spicy2/",
+      "author_name": "@gym_drama",
+      "views": "180만",
+      "is_age_restricted": false
+    },
+    {
+      "id": "hot_1",
+      "title": "화제의 수영복 & 비키니 페스티벌 룩북 릴스",
+      "category": "hot_bold",
+      "thumbnail_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600",
+      "source_url": "https://www.instagram.com/reel/C-test-hot1/",
+      "author_name": "@summer_lookbook",
+      "views": "320만",
+      "is_age_restricted": true
+    },
+    {
+      "id": "hot_2",
+      "title": "바디프로필 D-Day 아찔한 백스테이지 영상",
+      "category": "hot_bold",
+      "thumbnail_url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=600",
+      "source_url": "https://www.instagram.com/reel/C-test-hot2/",
+      "author_name": "@fitness_muse",
+      "views": "210만",
+      "is_age_restricted": true
+    },
+    {
+      "id": "humor_1",
+      "title": "월요일 아침 직장인 출근길 고증 100% ㅋㅋㅋ",
+      "category": "humor",
+      "thumbnail_url": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=600",
+      "source_url": "https://www.instagram.com/reel/C-test-humor1/",
+      "author_name": "@humor_factory",
+      "views": "150만",
+      "is_age_restricted": false
+    },
+    {
+      "id": "animal_1",
+      "title": "간식 숨긴 곳 들켜서 당황한 골든리트리버 ㅠㅠ",
+      "category": "animals",
+      "thumbnail_url": "https://images.unsplash.com/photo-1552053831-71594a27632d?w=600",
+      "source_url": "https://www.instagram.com/reel/C-test-animal1/",
+      "author_name": "@puppy_holic",
+      "views": "450만",
+      "is_age_restricted": false
+    },
+    {
+      "id": "food_1",
+      "title": "치즈 폭포 3단 불닭볶음면 1분 초간단 레시피",
+      "category": "food",
+      "thumbnail_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=600",
+      "source_url": "https://www.instagram.com/reel/C-test-food1/",
+      "author_name": "@cook_master",
+      "views": "190만",
+      "is_age_restricted": false
+    },
+    {
+      "id": "dance_1",
+      "title": "K-POP 최신 유행 비트 챌린지 릴스",
+      "category": "dance",
+      "thumbnail_url": "https://images.unsplash.com/photo-1547153760-18fc86324498?w=600",
+      "source_url": "https://www.instagram.com/reel/C-test-dance1/",
+      "author_name": "@kpop_dance_lab",
+      "views": "310만",
+      "is_age_restricted": false
+    }
+  ]
+}
